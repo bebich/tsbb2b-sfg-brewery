@@ -1,7 +1,6 @@
 package guru.springframework.brewery.web.controllers;
 
 import guru.springframework.brewery.domain.Customer;
-import guru.springframework.brewery.repositories.BeerOrderRepository;
 import guru.springframework.brewery.repositories.CustomerRepository;
 import guru.springframework.brewery.web.model.BeerOrderPagedList;
 import org.junit.jupiter.api.BeforeEach;
